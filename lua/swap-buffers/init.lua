@@ -10,7 +10,7 @@ function SwapBuffers.setup(config)
   end
 end
 
-function SwapBuffers.swap_current_buffer(with)
+function SwapBuffers.swap_buffers(with)
   if string.match(with, "[hjkl]") then
     local target_window = vim.fn.win_getid(vim.fn.winnr(with))
     local target_buffer = vim.api.nvim_win_get_buf(target_window)
