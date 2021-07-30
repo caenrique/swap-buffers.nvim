@@ -1,7 +1,7 @@
 Lua plugin to swap buffers easily between split windows
 
 <p align="center">
-   <img src="https://i.imgur.com/aufzS5b.gif" width="400">
+   <img src="https://i.imgur.com/z3YxA64.gif">
 <p>
 
 ## Configuration
