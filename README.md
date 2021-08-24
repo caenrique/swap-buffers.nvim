@@ -1,4 +1,4 @@
-Lua plugin to swap buffers easily between split windows
+Lua plugin to swap buffers easily between split windows without changing the window layout
 
 <p align="center">
    <img src="https://i.imgur.com/z3YxA64.gif">
